@@ -14,7 +14,7 @@ The old portfolio website certainly did serve its purpose though as it was a nic
 
 ## Blog
 
-I put together the old blog site during my early years at working at my first proper agency. Using it as a tool to help learn but also pass information onto others. But the content had become so outdated it was certainly time for it to go.
+I put together the old blog site during my early years of working at my first proper agency. Using it as a tool to help learn but also pass information onto others. But the content had become so outdated it was certainly time for it to go.
 
 {{< img-post path="title" file="old-blog.png" alt="Old blog" type="center" >}}
 
@@ -22,4 +22,4 @@ I put together the old blog site during my early years at working at my first pr
 
 With the new site, I really do have the best of intentions of trying to blog a lot more. But I know from past experience that sticking to that promise is more difficult than it sounds.
 
-I do a lot of back-end ASP.NET MVC development these days so I'm hoping that having a blog I can use some of my spare time to learn and blog about some other technologies as I'm learning.
+I do a lot of back-end ASP.NET MVC development these days so I'm hoping that having a blog I can use some of my spare time to learn and blog about some other technologies.
