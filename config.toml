@@ -5,19 +5,19 @@ title = "Blog of John Walker"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = ""
 googleAnalytics = ""
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+    description          = "Blog of John Walker, Developer, Dad, Husband and Liverpool FC fan"
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Future Imperfect"
+    navbarTitle          = "john-walker.co.uk"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = true
     # set this to the section name if section is not post
-    viewMorePostLink     = "/blog/"
+    viewMorePostLink     = ""
 
 # Optional Params
     categoriesByCount    = true
@@ -46,7 +46,7 @@ googleAnalytics = ""
 
     paragraph = "New website now live"
 
-    about     = "Some text about me should go here"
+    about     = "Developer, Dad, Husband and Liverpool FC fan"
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
@@ -69,7 +69,7 @@ googleAnalytics = ""
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
     name = "Blog"
-    url = "/blog"
+    url = "/post/"
     identifier = "fa fa-newspaper-o"
     weight = 1
 
@@ -94,7 +94,7 @@ googleAnalytics = ""
     wordpress       = ""
     tumblr          = ""
     xing            = ""
-    linkedin        = ""
+    linkedin        = "johnw86"
     slideshare      = ""
     stackoverflow   = ""
     reddit          = ""
