@@ -6,7 +6,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-15338574-2"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
