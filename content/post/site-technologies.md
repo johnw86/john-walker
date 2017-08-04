@@ -9,7 +9,7 @@ As the new site has been put together on new platforms I had never used before, 
 
 ## Hugo
 
-The website its self has been developed with the [HUGO](http://gohugo.io/) framework. 'Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.' To be honest until last week I had not even heard of HUGO. I came across it reading an article about how [Smashing Magazine will be using HUGO](https://next.smashingmagazine.com/2017/03/a-little-surprise-is-waiting-for-you-here--meet-the-next-smashing-magazine/) for their new website 
+The website itself has been developed with the [HUGO](http://gohugo.io/) framework. 'Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.' To be honest until last week I had not even heard of HUGO. I came across it reading an article about how [Smashing Magazine will be using HUGO](https://next.smashingmagazine.com/2017/03/a-little-surprise-is-waiting-for-you-here--meet-the-next-smashing-magazine/) for their new website 
 
 The article had me intrigued as the idea of re-building my website had been in the back of my mind for a while. I followed the really simple [quick start guide](http://gohugo.io/getting-started/quick-start/) and realised how quickly I could potentially get something up and running.
 
