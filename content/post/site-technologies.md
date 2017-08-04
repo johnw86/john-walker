@@ -5,7 +5,7 @@ draft: false
 images: ['img/site-technologies/twitter-card-hugo-logo.png']
 ---
 
-As the new site has been put together on new platforms I had never used before, I thought a post about that may inspire others to give them a go also.
+As the new site has been put together on new platforms I had never used before, I thought a post about this may inspire others to give them a go also.
 
 ## Hugo
 
@@ -42,7 +42,7 @@ Now every time I write a new post and want to push it live I just need to run a 
 
 ## Early impressions
 
-I was certainly impressed with the speed in which I managed to go from no website to a new themed blog all deployed in just over an hour. For anyone like me who is looking to put a basic blog together, which they want to write content in Markdown, I don't think you can't really go wrong with HUGO.
+I was certainly impressed with the speed in which I managed to go from no website to a new themed blog all deployed in just over an hour. For anyone like me who is looking to put a basic blog together, which they want to write content in Markdown, I don't think you can really go wrong with HUGO.
 
 {{< tweet 888407323038842880 >}}
 
