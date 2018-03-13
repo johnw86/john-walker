@@ -1,6 +1,8 @@
 # Hugo default output directory
 /public
 
+/isableFastRender
+
 ## OS Files
 # Windows
 Thumbs.db
