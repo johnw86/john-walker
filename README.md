@@ -13,3 +13,4 @@ git clone https://github.com/jpescador/hugo-future-imperfect.git
 Run
 
 hugo server
+hugo server --buildDrafts include content marked as draft
