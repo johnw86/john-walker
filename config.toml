@@ -1,4 +1,4 @@
-baseURL = "http://john-walker.co.uk/"
+baseURL = "https://john-walker.co.uk/"
 languageCode = "en-gb"
 title = "Blog of John Walker"
 theme = "hugo-future-imperfect"
@@ -89,7 +89,7 @@ canonifyURLs = true
 [params.intro]
   header    = "John Walker"
 
-  paragraph = "New website now live"
+  paragraph = "Web Developer"
 
   about     = "Developer, Dad, Husband and Liverpool FC fan"
 
